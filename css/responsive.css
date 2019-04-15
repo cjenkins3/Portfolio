@@ -141,6 +141,7 @@
 
     .about-area img {
         width: 100%;
+        margin-left: -0.5em;
     }
 
     .about-text-right {
